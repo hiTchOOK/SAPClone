@@ -1,1 +1,6 @@
-GET 'http://localhost:4004/odata/v4/test/printhello(input='Hello')
+#GET 'http://localhost:4004/odata/v4/test/printhello(input='Hello')
+
+#GET 'http://localhost:4004/odata/v4/test/addition(num1 = 5, num2 = 10)
+
+GET 'http://localhost:4004/rest/test/MyFunction(Category=2)
+
